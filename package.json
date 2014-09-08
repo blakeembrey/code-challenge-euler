@@ -1,6 +1,6 @@
 {
   "name": "code-challenge-euler",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Run Project Euler challenges in the command line.",
   "main": "euler.js",
   "repository": {

@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/blakeembrey/code-challenge-euler/issues"
   },
-  "homepage": "https://github.com/blakeembrey/code-challenge-euler"
+  "homepage": "https://github.com/blakeembrey/code-challenge-euler",
+  "dependencies": {
+    "code-challenge": "0.0.1"
+  }
 }

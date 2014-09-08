@@ -1,0 +1,26 @@
+{
+  "name": "code-challenge-euler",
+  "version": "0.0.0",
+  "description": "Run Project Euler challenges in the command line.",
+  "main": "euler.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blakeembrey/code-challenge-euler.git"
+  },
+  "keywords": [
+    "code-challenge",
+    "euler",
+    "project",
+    "terminal"
+  ],
+  "author": {
+    "name": "Blake Embrey",
+    "email": "hello@blakeembrey.com",
+    "url": "http://blakeembrey.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakeembrey/code-challenge-euler/issues"
+  },
+  "homepage": "https://github.com/blakeembrey/code-challenge-euler"
+}

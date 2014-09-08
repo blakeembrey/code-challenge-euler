@@ -11,7 +11,7 @@ npm install -g code-challenge-euler
 
 ## Usage
 
-```js
+```bash
 challenge select        # "Project Euler"
 challenge exercise      # "Problem ..."
 challenge verify [file] # Does my solution work?

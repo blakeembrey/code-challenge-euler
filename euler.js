@@ -66,6 +66,14 @@ fs.readFileSync(PROBLEM_FILE, 'utf8')
             console.log(join(__dirname, 'data/resources', file));
           });
         }
+
+        console.log();
+        console.log(
+          'To work on a solution you will need to create a file with your ' +
+          'preferred language. The solution should be logged to stdout and ' +
+          'once you think you have a working solution, use ' +
+          '`challenge verify [file]` to pass the exercise.'
+        );
       })
       .add('verify', function () {
         return challenge.execFile(this._[0])

@@ -1,5 +1,7 @@
 # Code Challenge: Project Euler
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/code-challenge-euler.svg)](https://greenkeeper.io/)
+
 [![NPM version][npm-image]][npm-url]
 [![Gittip][gittip-image]][gittip-url]
 
